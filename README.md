@@ -8,7 +8,7 @@ Add this dependency ```curved_navigation_bar: ^0.3.1``` in the pubspec.yaml
 
 See latest version (https://pub.dev/packages/curved_navigation_bar/versions)
 
-###Demo
+### Demo
 
 ![demo](https://media.giphy.com/media/IhfZBZFFg05iiUKPPT/giphy.gif)
 
