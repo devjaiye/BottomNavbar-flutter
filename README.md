@@ -4,7 +4,7 @@ Bottom navigation bars allow movement between primary destinations in an app. Ea
 
 ### How to use
 
-I added this ```curved_navigation_bar: ^0.3.1``` in the pubspec.yaml
+I added the ```curved_navigation_bar: ^0.3.1``` in the pubspec.yaml
 
 See latest version [Link](https://pub.dev/packages/curved_navigation_bar/versions)
 
